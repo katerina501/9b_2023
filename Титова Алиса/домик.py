@@ -1,6 +1,0 @@
-print ('   в')
-print ('  ввв')
-print (' ввввв')
-print ('ввввввв')
-print (' вв вв')
-print (' ввввв')
